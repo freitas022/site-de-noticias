@@ -243,3 +243,40 @@ img{
 	background: #294c71;
 	padding: 20px;
 }
+
+/* Página Internacional*/
+
+article {
+	width: 640px;
+	margin-top: 75px;
+	padding: 10px 0px;
+	
+}
+
+article p {
+	margin-top: 5px;
+	padding: 3px;
+	margin-top:  25px;
+	font-size: 0.9em;
+}
+
+article h3 {
+	color:#fff;
+	font-weight: 700;
+	background:#294c71;
+	width: 90px;
+}
+
+article span {
+	font-size: 0.70rem;
+}
+
+footer {
+	background-color: #294c71;
+	padding-left: 40px;
+	padding: 20px;
+	clear: both;
+	color: #ebeced;
+}
+
+/***** Rodapé*/
